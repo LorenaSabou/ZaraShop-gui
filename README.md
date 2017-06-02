@@ -3,6 +3,7 @@
 
 # Short description  
   This is a GUI application realized for the OOP course , simulating a small online shop which sells coats.    
+   !! User mode unfunctional YET.
 
 # Functionalities  
   It is composed of an administrator menu and an user menu.   
